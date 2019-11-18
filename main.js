@@ -1,5 +1,4 @@
 function getFirstName(person) {
-  return person.firstName;
 }
 
 function getLastName(person) {
